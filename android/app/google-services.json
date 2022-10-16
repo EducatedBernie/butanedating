@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "65357106650",
+    "project_id": "butane-67e0e",
+    "storage_bucket": "butane-67e0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65357106650:android:0b0e125f484c49c91ec4e3",
+        "android_client_info": {
+          "package_name": "com.mycompany.calhacks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65357106650-gjkk7v595hm94qe2qjsftbu18vcf3qmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.calhacks",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "65357106650-47gu7jl9q5gtlc1ttmbbn02nsqofi2a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJqbh1jD5EjFOsm-zmn0V9iB81HedY7ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65357106650-47gu7jl9q5gtlc1ttmbbn02nsqofi2a6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "65357106650-cf6892a77r5t41675hsb8pqs1te5a270.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.calhacks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
