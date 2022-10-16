@@ -1,12 +1,11 @@
-# Cal Hacks
+# Butane
 
 <img src="https://media.discordapp.net/attachments/1031050584024952895/1031297732964528188/unknown.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
 ## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Dating app that keeps the flame going.
 
 ### IMPORTANT:
 
